@@ -1,0 +1,7 @@
+/main.ipynb
+/models/random_forest_model.joblib
+/models/random_forest_model_onehot.joblib
+/models/w2v.model
+/data/amazon_reviews.csv
+/results/checkpoint-500/
+/models/distilbert-base-uncased/
